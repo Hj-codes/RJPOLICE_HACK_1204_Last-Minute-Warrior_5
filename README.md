@@ -5,7 +5,7 @@
 Create and implement an AI/ML-based system that can autonomously analyze and
 categorize online content, distinguishing between authentic and fake/fraudulent websites,
 advertisements, and customer care numbers.
-Solution :
+# Solution :
 ## 1. Website Authentication:
 ### Problem:
 Develop algorithms to assess the legitimacy of websites based on domain, SSL
